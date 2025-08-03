@@ -79,8 +79,8 @@ To reduce class confusion (e.g., between M16 and Negev), we:
 ## 👁️ Visual Demo (Blurred for OPSEC Compliance)
 
 <div align="center">
-  <img src="demo/blurred_post1.jpg" width="400"/>
-  <img src="demo/blurred_post2.jpg" width="400"/>
+  <img src="demo/ui_dashboard_blurred.jpg" width="500"/>
+  <img src="demo/flow_graph_blurred.jpg" width="500"/>
 </div>
 
 🛡️ All images are anonymized and blurred. No real identities or unit names are shown.
