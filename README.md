@@ -30,7 +30,7 @@ The system scans posts, detects military objects in images, analyzes captions, a
 | OpenCV                 | Image processing and visual masking |
 | FastAPI                | Backend service for model handling |
 | YAML Rules Engine      | Custom risk scoring logic based on detections |
-| Streamlit              | Internal UI for risk evaluation |
+| SvelteFlow             | Internal UI for risk evaluation |
 | Docker                 | Containerized deployment |
 | Notion                 | Task tracking and team documentation |
 
